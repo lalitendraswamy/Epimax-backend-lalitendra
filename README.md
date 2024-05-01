@@ -11,6 +11,7 @@ Install packages: npm install
 To run the code: node index.js
 
 
+Hosted URL: https://epimax-backend-lalitendra.onrender.com/
 
 
 Swagger api documentations:
