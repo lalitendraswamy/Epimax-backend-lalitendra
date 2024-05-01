@@ -13,6 +13,7 @@ To run the code: node index.js
 
 Hosted URL: https://epimax-backend-lalitendra.onrender.com/
 
+Explanation Video: https://drive.google.com/file/d/1MPyvR4JkkM256-l4u9UNB9Z1gQqLBafu/view?usp=drive_link
 
 Swagger api documentations:
 
